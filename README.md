@@ -1,5 +1,3 @@
-# Customer-Web-Analytics-Clustering-Outlier-Detection-using-ML
-
 # Customer Web Analytics Clustering & Outlier Detection using ML
 
 This project applies machine learning techniques to perform **clustering analysis**, **outlier detection**, and **classification modeling** on web analytics data. The dataset contains customer behavior metrics such as bounce rate, session duration, page views, etc. The goal is to uncover hidden patterns and improve decision-making using unsupervised and supervised ML models.
