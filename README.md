@@ -6,7 +6,8 @@ This project applies machine learning techniques to perform **clustering analysi
 
 ## 📊 Dataset
 
-- File: `Boun_rate_2001.csv`
+- **Source:** [Kaggle - Website Traffic Dataset by Anthony Therrien](https://www.kaggle.com/datasets/anthonytherrien/website-traffic/data)
+- File used: `Boun_rate_2001.csv`
 - Contains web traffic and customer interaction metrics:
   - Page Views
   - Session Duration
